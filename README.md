@@ -93,15 +93,3 @@ http://127.0.0.1:8000
 ## Estado del proyecto
 
 El proyecto se encuentra en desarrollo activo. Las funcionalidades serán incorporadas progresivamente conforme avance el desarrollo del simulador.
-
-<<<<<<< HEAD
-Capa 8
-======
-
->>>>>>> fba004feff27dfa798af220b229afcce023f4587
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
