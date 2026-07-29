@@ -1,4 +1,4 @@
-# S.E.P.A v2 capa 8
+# S.E.P.A v2
 
 Sistema web desarrollado con **Laravel** para la simulación del proceso de captura de un **Pedimento Aduanal** con fines educativos y de capacitación en materia de comercio exterior mexicano.
 
@@ -96,5 +96,12 @@ El proyecto se encuentra en desarrollo activo. Las funcionalidades serán incorp
 
 <<<<<<< HEAD
 Capa 8
-=======
+======
+
 >>>>>>> fba004feff27dfa798af220b229afcce023f4587
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
