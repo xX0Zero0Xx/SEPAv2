@@ -94,8 +94,3 @@ http://127.0.0.1:8000
 
 El proyecto se encuentra en desarrollo activo. Las funcionalidades serán incorporadas progresivamente conforme avance el desarrollo del simulador.
 
-Seczo 2
-
-HOLA ZOI MAPACHE Y BUZKO ZECZO jjhj
-
-SEMEN DE BURRO 7 XD .i.
