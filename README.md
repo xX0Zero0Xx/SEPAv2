@@ -57,7 +57,7 @@ Una vez configurado el entorno, continúe con la instalación del proyecto.
 
 ```bash
 git clone https://github.com/xX0Zero0Xx/SEPAv2.git
-cd simulador-cove
+cd SEPAv2
 ```
 
 ## 2 Crear DB para el proyecto
