@@ -1,4 +1,4 @@
-# S.E.P.A v2
+# S.E.P.A
 
 Sistema web desarrollado con **Laravel** para la simulación del proceso de captura de un **Pedimento Aduanal** con fines educativos y de capacitación en materia de comercio exterior mexicano.
 
@@ -63,22 +63,41 @@ cd SEPAv2
 ## 2 Crear DB para el proyecto
 
 ```bash
-create database SEPA;
+create database "Nombre de la DB";
 create user 'xxxx'@'xxxx' identified by 'xxxx';
 grant all privileges on simulador_cove.* to 'xxxx'@'xxxx';
 flush privileges;
 ```
 
-## 3 Ejecucion de migraciones y seeder
+## 3 Configuracion de .env
+
+```bash
+cp .env.example .env
+```
+
+## 4 Configurar .env
+
+```shell
+DB_CONNECTION= "Tipo de conexion"
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE= "Nombre de la DB"
+DB_USERNAME= "Nombre del usuario de la DB"
+DB_PASSWORD= "Comtraceña del usuario"
+```
+
+## 5 Ejecucion de migraciones y seede
 
 ```bash
 php artisan migrate
 php artisan db:seed
 ```
 
-## 4 Iniciar el servidor de desarrollo
+## 6 Iniciar el servidor de desarrollo
 
 ```bash
+php artisan key:generate
+php artisan config:clear
 php artisan serve
 ```
 
